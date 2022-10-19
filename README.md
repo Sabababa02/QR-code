@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
- - solution URL:[]
- - live Site URL:[]
+ - solution URL:[https://rg5d8c.csb.app/]
+ - live Site URL:[https://rg5d8c.csb.app/]
 
 ### Built With
 
